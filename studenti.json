@@ -1,0 +1,14 @@
+[
+  {
+    "nume": "John Doe",
+    "varsta": 20
+  },
+  {
+    "nume": "Jane Smith",
+    "varsta": 22
+  },
+  {
+    "nume": "Bob Johnson",
+    "varsta": 21
+  }
+]
